@@ -1,0 +1,6 @@
+typer[all]
+pdf2docx
+python-docx
+PyPDF2
+Pillow
+fpdf

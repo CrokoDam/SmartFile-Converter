@@ -16,7 +16,7 @@ SmartFile Converter is a powerful and polished Python CLI tool for converting fi
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/CrokoDam/smartfile-converter.git
+git clone [https://github.com/CrokoDam/smartfile-converter.git](https://github.com/CrokoDam/SmartFile-Converter)
 cd smartfile-converter
 pip install -r requirements.txt
 
